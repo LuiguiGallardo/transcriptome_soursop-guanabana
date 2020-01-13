@@ -1,2 +1,0 @@
-# Transcriptome_soursop (guanabana)
-#####
